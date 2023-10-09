@@ -6,6 +6,8 @@
 # Put it in a directory where a generic ubuntu cloud image file is located and make the script executable.
 # Adjust parameters (if needed) and run the script.
 # Recommended to run from /var/lib/libvirt/images directory.
+#
+# Author Roman Safronov
 
 GENERIC_CLOUD_IMAGE=focal-server-cloudimg-amd64.img
 DISK_SIZE=25
